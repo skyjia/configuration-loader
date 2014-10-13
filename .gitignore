@@ -1,0 +1,5 @@
+# Ignore WebStorm generated files
+.idea/
+
+# 排除Node项目下的Node module, iisnode, debug文件
+node_modules/
