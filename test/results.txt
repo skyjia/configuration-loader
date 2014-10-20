@@ -1,0 +1,10 @@
+
+[0m[0m
+[0m  #createLoader[0m
+[2K[0G  [32m  ✓[0m[90m load default.yml only [0m
+[2K[0G  [32m  ✓[0m[90m load default.yml and custom.yml by array [0m
+[2K[0G  [32m  ✓[0m[90m load default.yml and custom.yml by dynamic arguments [0m
+
+
+[92m [0m[32m 3 passing[0m[90m (9ms)[0m
+
