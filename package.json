@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/skyjia/CommonShared.Node.git"
+        "url": "https://github.com/skyjia/configuration-loader.git"
     },
     "author": "Sky Jia <me@skyjia.com> (http://www.skyjia.com/)",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/skyjia/CommonShared.Node/issues"
+        "url": "https://github.com/skyjia/configuration-loader/issues"
     },
-    "homepage": "https://github.com/skyjia/CommonShared.Node",
+    "homepage": "https://github.com/skyjia/configuration-loader",
     "devDependencies": {
         "chai": "^1.9.2",
         "grunt-mocha-test": "^0.12.1",
